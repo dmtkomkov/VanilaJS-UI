@@ -1,7 +1,7 @@
 {
-  "name": "vanilajs-ui",
+  "name": "vanillajs-ui",
   "version": "1.0.0",
-  "description": "This is VanilaJS app",
+  "description": "This is VanillaJS app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmtkomkov/VanilaJS-UI.git"
+    "url": "git+https://github.com/dmtkomkov/VanillaJS-UI.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dmtkomkov/VanilaJS-UI/issues"
+    "url": "https://github.com/dmtkomkov/VanillaJS-UI/issues"
   },
-  "homepage": "https://github.com/dmtkomkov/VanilaJS-UI#readme"
+  "homepage": "https://github.com/dmtkomkov/VanillaJS-UI#readme"
 }
