@@ -18,6 +18,7 @@ export class MyApp extends HTMLElement {
         <h1>${this.heading}</h1>
         <p>${this.subheading}</p>
       </div>
+      <my-table></my-table>
     `;
   }
 }

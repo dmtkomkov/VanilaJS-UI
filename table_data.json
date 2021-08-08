@@ -1,0 +1,14 @@
+{
+  "content": [
+    {
+      "id": 1,
+      "name": "Dmitry",
+      "age": 36
+    },
+    {
+      "id": 2,
+      "name": "Alenka",
+      "age": 30
+    }
+  ]
+}
